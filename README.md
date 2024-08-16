@@ -5,7 +5,7 @@
 
 <h2> Hey there! I'm Mohamed.</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo20028" alt="Mohamed Shaban" /></a> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ms-ferhat" alt="Mohamed Shaban" /></a> 
 </p>
 
 

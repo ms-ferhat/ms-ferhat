@@ -51,8 +51,6 @@ I am a highly motivated 4rd year Electronics & Communication Engineering (ECE) s
 
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3514108" style='border:none;'></iframe>
-
 
 
 

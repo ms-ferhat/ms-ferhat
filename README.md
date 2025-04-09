@@ -5,18 +5,16 @@
 
 <h2> Hey there! I'm Mohamed.</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ms-ferhat" alt="Mohamed Shaban" /></a> 
-</p>
+<a href="https://www.linkedin.com/in/msferhet/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I am a highly motivated 4rd year Electronics & Communication Engineering (ECE) student at Fayoum University. My passion lies in the field of embedded systems & IOT. I am actively engaged in expanding my knowledge and practical skills through various avenues
+Strongly passionate about cybersecurity, specializing in defense and threat analysis. Certified in digital forensics through the eCDFP
 
-- 🎓 &nbsp; I’m currently a senior student at Al Fayoum University. 
-- 💼 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ms-ferhet/) [Gmail](ms.2oo2elsayed@gmail.com)
+- 🎓 &nbsp; I’m a fresh graduate of ECE engineering from Fayoum University. 
+- 💼 &nbsp; Learning more about Cybersecurity, Incident response and Digital forensics. 
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 

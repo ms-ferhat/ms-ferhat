@@ -52,7 +52,8 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-<br/>
+## Certifications
+<img src="https://img.shields.io/badge/-eCDFP-0078D7?style=for-the-badge&logo=Microsoft-Academic&logoColor=white" />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 

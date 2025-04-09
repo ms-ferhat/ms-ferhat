@@ -11,7 +11,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Strongly passionate about cybersecurity, specializing in defense and threat analysis. Certified in digital forensics through the eCDFP
+Strongly passionate about cybersecurity, specializing in defense and threat analysis. Certified in digital forensics through the eCDFP. specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 - 🎓 &nbsp; I’m a fresh graduate of ECE engineering from Fayoum University. 
 - 💼 &nbsp; Learning more about Cybersecurity, Incident response and Digital forensics. 

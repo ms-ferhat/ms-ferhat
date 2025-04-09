@@ -12,7 +12,7 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 
 - 🎓 &nbsp; I’m a fresh graduate of ECE engineering from Fayoum University. 
 - 💼 &nbsp; Learning more about Cybersecurity, Incident response and Digital forensics.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msferhet) [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msferhet) [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail&logoColor=#D14836)](mailto:msferhet118@gmail.com)
 
 
 ## ⚡ Skills

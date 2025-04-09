@@ -46,24 +46,12 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-- 💻 &nbsp;
+### 👨‍💻 Programming Languages  
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-- ⚙️ &nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-
-- 🔧 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![STM32Cube](https://img.shields.io/badge/-STM32Cube-333333?style=flat&logo=STMicroelectronics&logoColor=FFA500)
-![Keil uVision 5](https://img.shields.io/badge/-Keil%20uVision%205-333333?style=flat&logo=ARM&logoColor=FF0000)
-
-
-  
 <br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

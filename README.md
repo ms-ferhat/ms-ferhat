@@ -3,10 +3,7 @@
 
 
 
-<h2> Hey there! I'm Mohamed.</h2>
-
-<a href="https://www.linkedin.com/in/msferhet/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+# Hey there! I'm Mohamed.
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -14,7 +11,8 @@
 Strongly passionate about cybersecurity, specializing in defense and threat analysis. Certified in digital forensics through the eCDFP. specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 - 🎓 &nbsp; I’m a fresh graduate of ECE engineering from Fayoum University. 
-- 💼 &nbsp; Learning more about Cybersecurity, Incident response and Digital forensics. 
+- 💼 &nbsp; Learning more about Cybersecurity, Incident response and Digital forensics.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ms-ferhet/) [Gmail](ms.2oo2elsayed@gmail.com)
 
 ## ⚡ Skills
 

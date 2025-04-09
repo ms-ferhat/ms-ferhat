@@ -41,13 +41,13 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 
 ### 🛡️ SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=flat&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=flat&logo=Elastic&logoColor=white" />
 </div>
 
 ### 👨‍💻 Programming Languages  
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 

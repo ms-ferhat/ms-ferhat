@@ -54,12 +54,6 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 ## Certifications
 ![eCDFP](https://img.shields.io/badge/-eCDFP-0078D7?style=flat&logo=INE&logoColor=white)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ms-ferhat" alt="Mohamed-Shaban" /> </p>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 

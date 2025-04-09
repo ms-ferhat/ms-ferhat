@@ -12,7 +12,7 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 
 - 🎓 &nbsp; I’m a fresh graduate of ECE engineering from Fayoum University. 
 - 💼 &nbsp; Learning more about Cybersecurity, Incident response and Digital forensics.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msferhet) [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail&logoColor=#D14836)](mailto:msferhet118@gmail.com)
+- 📫 How to reach me: [[LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msferhet) [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail&logoColor=#D14836)](mailto:msferhet118@gmail.com)
 
 
 ## ⚡ Skills
@@ -30,13 +30,13 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 ### 🌐 Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=flat&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=flat&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=flag&logo=Zeek&logoColor=white" />
 </div>
 
 ### 🖥️ Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=flat&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### 🛡️ SIEM

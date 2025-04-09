@@ -16,10 +16,35 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 - 🎓 &nbsp; I’m a fresh graduate of ECE engineering from Fayoum University. 
 - 💼 &nbsp; Learning more about Cybersecurity, Incident response and Digital forensics. 
 
-### 🛠️ Skills
+## ⚡ Skills
 
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
+
+<h3>  &nbsp;🛠️ Tools:</h3>
+
+## Tools
+
+### 🌐 Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### 🖥️ Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### 🛡️ SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
 - 💻 &nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)

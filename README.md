@@ -19,7 +19,7 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Automation Lab          | [Link](https://github.com/ms-ferhat/SOC-Automation-Lab) |
+| SIEM Implementation and Log Analysis         | [Link](https://github.com/ms-ferhat/SOC-Automation-Lab) |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 
@@ -55,9 +55,9 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 [![eCDFP](https://img.shields.io/badge/-eCDFP-333333?style=flat&logo=Microsoft-Academic&logoColor=white)](https://certs.ine.com/dcebf235-1a09-4439-ab30-b2253567c4e2#acc.BzuwLRpt)
 
 
+## Projects
 
-
-
+- [SOC Automation Lab](https://github.com/ms-ferhat/SOC-Automation-Lab)
 
 
 
@@ -75,15 +75,6 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 </a>
 
 
-<!-- icons without padding -->
-[3.2]: https://github.com/ms-ferhat/ms-ferhat/blob/main/linkedin%20(1).png
- (LinkedIn icon without padding)
 
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Mohamed93465854
-[2]: https://github.com/ms-ferhat
-[3]: https://www.linkedin.com/in/ms-ferhet/
 
 

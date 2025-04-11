@@ -19,7 +19,7 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SOC Automation Lab          | [Link](https://github.com/ms-ferhat/SOC-Automation-Lab) |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 

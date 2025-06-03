@@ -45,6 +45,7 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=flat&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=flat&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-0265C0?&style=flat&logo=Wazuh&logoColor=white" />
 </div>
 
 ### ⚙️ SOAR
@@ -66,6 +67,7 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 ## Projects
 
 - [SOC Automation Lab](https://github.com/ms-ferhat/SOC-Automation-Lab)
+- [SOAR EDR Playbook](https://github.com/ms-ferhat/SOAR-EDR-Playbook)
 
 
 

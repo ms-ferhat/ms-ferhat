@@ -38,12 +38,19 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 ### 🖥️ Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=flat&logo=Velociraptor&logoColor=white" />
+     <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=flat&logo=OpenSearch&logoColor=white" />
 </div>
 
 ### 🛡️ SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=flat&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=flat&logo=Elastic&logoColor=white" />
+</div>
+
+### ⚙️ SOAR
+<div>
+    <img src="https://img.shields.io/badge/-Tines-3C3C3C?&style=flat&logo=Tinder&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shuffle-FF6B6B?&style=flat&logo=Workflow&logoColor=white" />
 </div>
 
 ### 👨‍💻 Programming Languages  

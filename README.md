@@ -73,7 +73,7 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 
 
 ## TryHackMe
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3514108" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/msferhet.png" alt="Your Image Badge" />
 
 ## &#x1f4c8; GitHub Stats
 

@@ -72,6 +72,8 @@ Strongly passionate about cybersecurity, specializing in defense and threat anal
 
 
 
+## TryHackMe
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3514108" style='border:none;'></iframe>
 
 ## &#x1f4c8; GitHub Stats
 
